@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1548704390 source:e:\new folder\c\bubble sort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
